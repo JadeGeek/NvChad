@@ -10,7 +10,7 @@ M.toggleterm = {
     -- 打开lazy git 终端
      ["<leader>tg"] = {"<cmd>lua require('toggleterm').lazygit_toggle()<CR>", "Open Lazygit Terminal"},
     -- 打开或关闭所有终端
-     ["<leader>ta"] = {"<cmd>ToggleTermToggleAll<CR>", "Toggle Terminal"},
+     ["<leader>ta"] = {"<cmd>ToggleTermToggleAll<CR>", "Toggle All Terminals"},
   };
 
   t = {

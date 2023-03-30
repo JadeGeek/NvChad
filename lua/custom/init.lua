@@ -107,7 +107,7 @@ opt.backspace="indent,eol,start"
 opt.tw = 100
 --opt.colorcolumn = 100
 
-opt.guifont = "FuraMono Nerd Font:h12"
+opt.guifont = "FuraMono Nerd Font:h13"
 opt.cursorline = true
 -- cursorline
 opt.cul = true

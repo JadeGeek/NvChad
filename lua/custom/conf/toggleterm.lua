@@ -30,7 +30,7 @@ local floatTerm =
         hidden = true,
         direction = "float",
         float_opts = {
-            border = "double"
+            border = "single"
         },
         on_open = function(term)
             inInsert()
@@ -52,7 +52,7 @@ local lazyGit =
         hidden = true,
         direction = "float",
         float_opts = {
-            border = "double"
+            border = "single"
         },
         on_open = function(term)
             inInsert()
